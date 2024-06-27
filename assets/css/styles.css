@@ -390,6 +390,7 @@ img {
   transform: translateX(.5rem);
 }
 
+
 /*=============== INFO ===============*/
 .info__container{
   row-gap: 3rem;
@@ -798,6 +799,8 @@ resize: none;
 .work__link i{
   font-size: 2rem;
 }
+
+
 
 .info__container{
   row-gap: 4rem;
