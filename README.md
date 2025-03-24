@@ -1,5 +1,6 @@
 # Responsive Portfolio Website Tailor
-## Watch it (https://vasymoldovanportfolio.netlify.app/)
+## Watch it https://vasymoldovanportfolio.netlify.app/
+
 ### Responsive Portfolio Website Tailor
 
 - Responsive Portfolio Website Using HTML CSS And JavaScript
